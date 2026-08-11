@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi, I'm Lê Đình Thức</h1>
+<h1>👋 Hi, I'm Lê Đình Thức</h1>
 
-<h3 align="center">
-  💻 Software Engineering Student | Backend Developer | AI Enthusiast
+<h3>
+💻 Software Engineering Student | Backend Developer | AI Enthusiast
 </h3>
 
-<p align="center">
-  🎓 Studying Software Engineering at 
-  <a href="https://ptit.edu.vn/">Posts and Telecommunications Institute of Technology (PTIT)</a>
+<p>
+🎓 Studying Software Engineering at 
+<a href="https://ptit.edu.vn/">Posts and Telecommunications Institute of Technology (PTIT)</a>
 </p>
 
 ---
@@ -28,11 +28,13 @@
   <a href="mailto:ledinhthucptit@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
+
   <a href="https://github.com/LeDinhThucPTIT">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
+
   <a href="https://www.facebook.com/ledinhthuc07072005">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
   </a>
 </p>
 
