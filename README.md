@@ -1,61 +1,47 @@
-# 👋 Hi, I'm Lê Đình Thức
+<h1 align="center">👋 Hi, I'm Lê Đình Thức</h1>
 
-### 💻 Software Engineering Student
+<h3 align="center">
+  💻 Software Engineering Student | Backend Developer | AI Enthusiast
+</h3>
 
-I'm a Software Engineering student who enjoys building web applications, learning new technologies, and exploring software development.
-
----
-
-## 🛠️ Languages & Technologies
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  🎓 Studying Software Engineering at 
+  <a href="https://ptit.edu.vn/">Posts and Telecommunications Institute of Technology (PTIT)</a>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+- 🎓 I'm currently studying **Software Engineering at PTIT**
+- 💻 Interested in **Backend Development & Web Development**
+- 🤖 Exploring **AI Engineering & AI Agents**
+- 🌱 Currently learning **Java, JavaScript, TypeScript, Node.js & React**
+- 🚀 I enjoy building projects and learning new technologies
+- 📚 Always trying to improve my programming skills
+
+---
+
+## 🤝 Connect with me
+
+<p>
+  <a href="mailto:ledinhthucptit@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
   <a href="https://github.com/LeDinhThucPTIT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/ledinhthuc07072005">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Always learning, always building.
+## 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,nodejs,express,spring,mongodb,mysql,postgresql,git,github,docker,vscode&perline=9)](https://skillicons.dev)
+
+---
+
+### 🚀 Keep Learning • Keep Building • Keep Improving
