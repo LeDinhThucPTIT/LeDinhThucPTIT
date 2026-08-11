@@ -40,7 +40,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,nodejs,express,spring,mongodb,mysql,postgresql,git,github,docker,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,docker,vscode&perline=9)](https://skillicons.dev)
 
 ---
 
